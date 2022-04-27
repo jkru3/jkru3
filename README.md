@@ -1,11 +1,11 @@
 ### Hi there 👋
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jkru3/CardGames?style=plastic)
 <!--
 **jkru3/jkru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-	![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jkru3/CardGames?style=plastic)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
