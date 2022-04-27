@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-	/discord/:serverId
+	![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jkru3/CardGames?style=plastic)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
