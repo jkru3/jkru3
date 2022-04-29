@@ -1,5 +1,6 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red) 
-https://img.shields.io/github/commit-activity/y/jkru3/jkru3
+https://img.shields.io/badge/dynamic/json?url=<URL>&label=<LABEL>&query=<$.DATA.SUBDATA>&color=<COLOR>&prefix=<PREFIX>&suffix=<SUFFIX>
+
 
 ### Welcome!
 
