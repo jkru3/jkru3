@@ -1,4 +1,5 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red) https://img.shields.io/github/commit-activity/y/jkru3/jkru3
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red) 
+https://img.shields.io/github/commit-activity/y/jkru3/jkru3
 
 ### Welcome!
 
