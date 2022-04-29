@@ -1,4 +1,3 @@
-https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red)
 
 ### Welcome!
