@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome!
+
+My name is Joey (He/Them), I'm a 3rd year Computer Science student currently studying Data Structures in Java. Right now I'm working on a handful of projects, playing around with Python, and integrating excel data with Excel VBA. Currently seeking a programming internship for Summer. Check out some of my past projects below! If you'd like to collaborate or for any other inquirys, my email is josephkrueger@protonmail.com.
 
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/y/jkru3/CardGames?style=plastic)
 <!--
