@@ -1,4 +1,4 @@
-https://visitor-badge.glitch.me/badge?page_id=jkru3.visitor-badge
+![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red)
 
 ### Welcome!
 
