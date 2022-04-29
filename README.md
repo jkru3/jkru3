@@ -1,5 +1,4 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red) 
-[![instagram](https://img.shields.io/instagram/url/https/instagram.com/cloudposse.svg?style=social&label=Follow%20%40cloudposse)](https://twitter.com/cloudposse)
 
 
 ### Welcome!
