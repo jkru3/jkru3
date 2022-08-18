@@ -3,7 +3,7 @@
 
 ### Welcome!
 
-My name is Joey (He/Them), I'm a 3rd year Computer Science student currently studying Data Structures in Java. Right now I'm working on a handful of projects, playing around with Python, and integrating excel data with Excel VBA. Currently seeking a programming internship for Summer. Check out some of my past projects below! If you'd like to collaborate on something together or for any other inquirys, feel free to reach out!
+My name is Joey, I'm a 3rd year Computer Science student currently studying Data Structures in Java. Right now I'm working on a handful of projects, playing around with Python, and integrating excel data with Excel VBA. Currently seeking a programming internship for Summer. Check out some of my past projects below! If you'd like to collaborate on something together or for any other inquirys, feel free to reach out!
 
 <!--
 **jkru3/jkru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
