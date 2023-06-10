@@ -1,9 +1,9 @@
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red) 
 
 
-### Welcome!
+### Hey,
 
-My name is Joey, I'm a 3rd year Computer Science student currently studying CSE 311 and CSE 351 at the University of Washington. Right now I'm working on a react app called Clear Vote, which you can view as a deployed GitHub page! Currently seeking a programming internship for Spring or Summer. Check out some of my past projects below! If you'd like to collaborate on something together or for any other inquirys, feel free to reach out!
+I'm Joey. This is where I keep alot of my old and current side projects. If you like what you see, you can check out my <website that doesn't exist yet> too (don't be shy)
 
 <!--
 **jkru3/jkru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
