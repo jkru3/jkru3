@@ -1,6 +1,3 @@
-![visitors](https://visitor-badge.glitch.me/badge?page_id=jkru3.jkru3&left_color=green&right_color=red) 
-
-
 ### Hey, I'm Joey
 
 This is where I keep alot of my past and current side projects. If you like what you see, you can check out my <website that doesn't exist yet> too
