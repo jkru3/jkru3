@@ -1,8 +1,8 @@
-### Hey, I'm Joey
+# Hey, I'm Joey
 
 This is where I keep many of my past and current side projects. Feel free to check out my [website](https://jkru3.github.io/personal-website/)
 
-I'm also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/) and [Twitter](https://twitter.com/_Joey_Laurent_)
+You can also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/)
 
 <!--
 **jkru3/jkru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
