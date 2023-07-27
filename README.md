@@ -1,6 +1,6 @@
 ### Hey, I'm Joey
 
-This is where I keep alot of my past and current side projects. If you like what you see, you can check out my <website that doesn't exist yet> too
+This is where I keep many of my past and current side projects. Feel free to check out my [website](https://jkru3.github.io/personal-website/)
 
 I'm also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/) and [Twitter](https://twitter.com/_Joey_Laurent_)
 
