@@ -1,6 +1,6 @@
 # Hey, I'm Joey
 
-This is where I keep many of my past and current side projects. Feel free to check out my [website](https://jkru3.github.io/personal-website/)
+This is where I keep many of my past and current side projects. Feel free to check out my [website](joey-krueger.com)
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/)
 
