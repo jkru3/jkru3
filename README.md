@@ -1,8 +1,8 @@
-# Hey, I'm Joey
+# hey, I'm Joey
 
-This is where I keep many of my past and current side projects. Feel free to check out my [website](https://joey-krueger.com)
+this is where I keep many of my past and current side projects. Feel free to check out my [website/digital-garden](https://joey-krueger.com)
 
-You can also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/)
+you can also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/)
 
 <!--
 **jkru3/jkru3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
