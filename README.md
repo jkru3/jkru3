@@ -1,4 +1,4 @@
-# hey, I'm Joey
+# hello!
 
 this is where I keep many of my past and current side projects. Feel free to check out my [website/digital-garden](https://joey-krueger.com)
 
