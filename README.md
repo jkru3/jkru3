@@ -1,6 +1,6 @@
 # hello!
 
-this is where I keep many of my past and current side projects. Feel free to check out my *very much a work in progress* [website/digital-garden](https://joey-krueger.com)
+this is where I keep many of my past and current side projects. Feel free to check out my [personal website / digital garden](https://joey-krueger.com)
 
 you can also find me on [LinkedIn](https://www.linkedin.com/in/jkru3/)
 
