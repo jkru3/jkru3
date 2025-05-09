@@ -1,5 +1,5 @@
 <p align="left">
-  <a href="https://jkru3.com"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="personal blog"/></a>
+  <a href="https://jkru3.xyz"><img src="https://img.shields.io/badge/Website-3b5998?style=for-the-badge&logo=google-chrome&logoColor=white" alt="personal blog"/></a>
   <a href="mailto:joseph.L.krueger@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="email"/></a>
   <a href="https://www.linkedin.com/in/jkru3"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin"/></a>
   <a href="https://discord.gg/jkru3"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" alt="discord"/></a>
