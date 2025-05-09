@@ -7,13 +7,13 @@
   <a href="https://open.spotify.com/user/matyo91"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/></a>
 </p>
 
-<h1><img src="https://media.giphy.com/media/VcMH9cyhD0QVfjsjbx/giphy.gif?cid=ecf05e47culwjdi73gioo03frr6rp3hjzoe24qga9kz4hxhz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="150"></h1>
+<h1><img src="https://media.giphy.com/media/VcMH9cyhD0QVfjsjbx/giphy.gif?cid=ecf05e47culwjdi73gioo03frr6rp3hjzoe24qga9kz4hxhz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200"></h1>
 
 my name is Joey. I'm a 29 year old developer fresh out of the University of Washington with 2 YOE as a developer
 - i co-founded [Clearvote](https://clearvote.info), a tool that provides side-by-side comparisons of local election candidates
 - i've written and produced [music](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=B9eCLhNLRsGbPSGuA4TvnA)
 - i'm currently working on a [blog](https://jkru3.xyz/)
-- i'm also ✨funemployed✨ and very much open to work  ([resume](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)). Feel free to dig around my profile and reach out!
+- i'm also ✨🌈*funemployed*🌈✨ and very much open to work ([resume](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)). Feel free to dig around my profile and reach out!
 
 
 
@@ -59,6 +59,7 @@ my name is Joey. I'm a 29 year old developer fresh out of the University of Wash
 
 
 <h2>GitHub stats<img src="https://media.giphy.com/media/PBo18KBOkMqbRBhOXa/giphy.gif?cid=ecf05e475gdixarbfv145k4z76rggt4pknp1e3zcz9wi0yf2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h2>
+
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jkru3&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkru3&layout=compact&theme=radical)
