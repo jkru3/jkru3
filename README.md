@@ -13,7 +13,7 @@ my name is Joey. I'm a 29 year old developer fresh out of the University of Wash
 - i co-founded [Clearvote](https://clearvote.info), a tool that provides side-by-side comparisons of local election candidates
 - i've written and produced [music](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=B9eCLhNLRsGbPSGuA4TvnA)
 - i run a [blog](https://jkru3.xyz/) (also my portfolio, if you'd like to see more of my work)
-- i'm ✨🌈*funemployed*🌈✨ and very much open to work ([resume](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)). Feel free to dig around my profile and reach out!
+- i'm ✨🌈*funemployed*🌈✨ and very much open to work if there's a good fit ([resume](https://jkru3.github.io/resumes/pdfs/SWE_JosephKrueger_Resume.pdf)). Feel free to dig around my profile and reach out!
 
 
 
