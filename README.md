@@ -9,7 +9,7 @@
 
 <img src="https://media.giphy.com/media/VcMH9cyhD0QVfjsjbx/giphy.gif?cid=ecf05e47culwjdi73gioo03frr6rp3hjzoe24qga9kz4hxhz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
 
-my name is Joey. I'm a 30 working as a baby dev @Google on the AI Infra team. In addition to my work as a professional
+my name is Joey. I'm a 30 y/o baby dev on the GKE AI Infra team @Google. In addition to my work as a professional:
 - i co-founded [Clearvote](https://clearvote.info), a tool that provides side-by-side comparisons of local election candidates
 - i've written and produced [music](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=B9eCLhNLRsGbPSGuA4TvnA)
 - i run a [blog](https://jkru3.xyz/portfolio) (which is also my **portfolio**, if you'd like to see more of my work)
