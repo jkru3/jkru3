@@ -7,16 +7,19 @@
   <a href="https://open.spotify.com/artist/3Tav1kg6iqGUSSZtpPD69X?si=tQdfO5ewQT2_RNwyB2sEsQ"><img src="https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white" alt="spotify"/></a>
 </p>
 
-<img src="https://media.giphy.com/media/VcMH9cyhD0QVfjsjbx/giphy.gif?cid=ecf05e47culwjdi73gioo03frr6rp3hjzoe24qga9kz4hxhz&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="200">
+<h1><i>hey</i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZ5bHBtbGNyc281aWs4Yml1M2JmbTFrdTBpODR4eXhhc2R5Y2tueSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="50"></h1>
 
-my name is Joey. I'm a 30 y/o baby dev on the GKE AI Infra team @Google. In addition to my work as a professional:
+your mind is the architect of your reality. Keep going, you are doing great
+
+
+<!-- <img src="https://media.giphy.com/media/9NpEuO5SbKmtDhlISk/giphy.gif" width="200">
+
+my name is Joey. I'm a developer. In addition to my work as a professional:
 - i co-founded [Clearvote](https://clearvote.info), a tool that provides side-by-side comparisons of local election candidates
 - i've written and produced [music](https://open.spotify.com/album/7Llsm8e0e6zcKQDvMasFCm?si=B9eCLhNLRsGbPSGuA4TvnA)
 - i run a [blog](https://jkru3.xyz/portfolio) (which is also my **portfolio**, if you'd like to see more of my work)
 
 
-
-<h1><i>tech stack</i><img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNDZ5bHBtbGNyc281aWs4Yml1M2JmbTFrdTBpODR4eXhhc2R5Y2tueSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/Vf3ZKdillTMOOaOho0/giphy.gif" width="50"></h1>
 
 ## languages
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
@@ -55,9 +58,10 @@ my name is Joey. I'm a 30 y/o baby dev on the GKE AI Infra team @Google. In addi
 ![IAM](https://img.shields.io/badge/IAM-569A31?style=for-the-badge&logo=amazon-iam&logoColor=white)
 
 
-
 <h1>GitHub stats<img src="https://media.giphy.com/media/PBo18KBOkMqbRBhOXa/giphy.gif?cid=ecf05e475gdixarbfv145k4z76rggt4pknp1e3zcz9wi0yf2&ep=v1_stickers_search&rid=giphy.gif&ct=s" width="50"></h1>
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=jkru3&show_icons=true&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jkru3&layout=compact&theme=radical)
+
+ -->
